@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Envelope>
+  <Subject>Reference rates</Subject>
+  <Sender>
+    <Name>European Central Bank</Name>
+  </Sender>
+  <Rates>
+    <Date time='2018-04-23'>
+      <Rate currency='USD' rate='1.2309'/>
+      <Rate currency='JPY' rate='132.41'/>
+      <Rate currency='BGN' rate='1.9558'/>
+      <Rate currency='CZK' rate='25.340'/>
+      <Rate currency='DKK' rate='7.4477'/>
+      <Rate currency='GBP' rate='0.87608'/>
+      <Rate currency='HUF' rate='310.52'/>
+      <Rate currency='PLN' rate='4.1677'/>
+      <Rate currency='RON' rate='4.6586'/>
+      <Rate currency='SEK' rate='10.3703'/>
+      <Rate currency='CHF' rate='1.1970'/>
+      <Rate currency='ISK' rate='123.30'/>
+      <Rate currency='NOK' rate='9.6050'/>
+      <Rate currency='HRK' rate='7.4110'/>
+      <Rate currency='RUB' rate='75.7375'/>
+      <Rate currency='TRY' rate='4.9803'/>
+      <Rate currency='AUD' rate='1.5983'/>
+      <Rate currency='BRL' rate='4.1892'/>
+      <Rate currency='CAD' rate='1.5557'/>
+      <Rate currency='CNY' rate='7.7449'/>
+      <Rate currency='HKD' rate='9.6568'/>
+      <Rate currency='IDR' rate='17142.74'/>
+      <Rate currency='ILS' rate='4.3435'/>
+      <Rate currency='INR' rate='81.3900'/>
+      <Rate currency='KRW' rate='1316.26'/>
+      <Rate currency='MXN' rate='22.7424'/>
+      <Rate currency='MYR' rate='4.7924'/>
+      <Rate currency='NZD' rate='1.7032'/>
+      <Rate currency='PHP' rate='64.179'/>
+      <Rate currency='SGD' rate='1.6172'/>
+      <Rate currency='THB' rate='38.552'/>
+      <Rate currency='ZAR' rate='14.8008'/>
+    </Date>
+  </Rates>
+</Envelope>
